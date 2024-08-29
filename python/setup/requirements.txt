@@ -41,7 +41,7 @@ filelock==3.0.12
 flake8==3.9.0
 flashtext==2.7
 Flask==2.0.2
-Flask-Cors==3.0.10
+Flask-Cors==4.0.1
 gast==0.4.0
 gensim==3.8.3
 google-pasta==0.2.0
